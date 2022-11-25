@@ -9,7 +9,8 @@ Linguagens & Tecnologias: `Python`, `R`, `Estatística`, `WebScrapy`, \
 Projetos em destaque: [Precificação Residencial utilizando algoritmos preditivos](https://www.ifpb.edu.br/cajazeiras)
 <br/>
 
-<div align="center">
+### Hard Skills
+<div align="left">
   <a href="https://github.com/renansaraivaifpb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansaraivaifpb&layout=compact&langs_count=7&theme=swift"/>
 </div>
