@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Pesquisador de Machine Learning** \
 [**IFPB**](https://www.ifpb.edu.br/cajazeiras) • Full-time \
 Linguagens & Tecnologias: `Python`, `R`, `Estatística`, `WebScrapy`, \
-Projetos em destaque: [Precificação Residencial utilizando algoritmo preditivo]([https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html])
+Projetos em destaque: [Precificação Residencial utilizando algoritmo preditivo](https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html)
 <br/>
 
 ### Hard Skills
