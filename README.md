@@ -7,7 +7,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [**IFPB**](https://www.ifpb.edu.br/cajazeiras) • Full-time \
 Linguagens & Tecnologias: `Python`, `Estatística`, `WebScrapy`, \
 Projetos em destaque: [Precificação Residencial utilizando algoritmo preditivo](https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html) \
-Projetos em destaque: [Manutenção preditiva em motores trifásicos]([https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor))
+Projetos em destaque: [Manutenção preditiva em motores trifásicos](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor)
 <br/>
 
 ### Hard Skills
