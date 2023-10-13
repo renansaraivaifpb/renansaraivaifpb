@@ -5,10 +5,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Pesquisador de Machine Learning** \
 [**IFPB**](https://www.ifpb.edu.br/cajazeiras) • Full-time \
-Conhecimentos utilizados: `Python`, `Estatística`,`Algoritmos Supervisionados`, `WebScrapy` \
-Projetos em destaque: [Precificação Residencial utilizando algoritmo preditivo](https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html) \
+Projetos em destaque: \
 Conhecimentos utilizados: `Python`, `Análise de dados`, `Redes neurais`, `Elétrica` \
- [Manutenção preditiva em motores trifásicos](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor) 
+ [Manutenção preditiva em motores trifásicos](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor) \
+Conhecimentos utilizados: `Python`, `Estatística`,`Algoritmos Supervisionados`, `WebScrapy` \
+[Precificação Residencial utilizando algoritmo preditivo](https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html) 
+
 <br/>
 
 ### Hard Skills
