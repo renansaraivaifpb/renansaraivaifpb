@@ -6,6 +6,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Pesquisador de Machine Learning** \
 [**IFPB**](https://www.ifpb.edu.br/cajazeiras) • Full-time \
 Projetos em destaque: \
+Conhecimentos utilizados: `Python`, `C/C++`, `Análise de dados`, `Redes neurais`, `Elétrica` \
+ [Development of AUTOSAR Protocol Integration: Using Computer Vision (Gesture Recognition) for Multimedia Control (Ford Company in Partnership with Assert/IFPB).](https://renan-saraiva-portfolio.netlify.app/) \
 Conhecimentos utilizados: `Python`, `Análise de dados`, `Redes neurais`, `Elétrica` \
  [Manutenção preditiva em motores trifásicos](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor) \
 Conhecimentos utilizados: `Python`, `Estatística`,`Algoritmos Supervisionados`, `WebScrapy` \
