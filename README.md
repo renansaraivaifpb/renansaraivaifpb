@@ -1,65 +1,29 @@
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/renansaraivaifpb"> 🔗
-  https://gitfollio.vercel.app/renansaraivaifpb
-</a>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/renansaraivaifpb/renansaraivaifpb/blob/main/download.png"/>](https://www.ifpb.edu.br/cajazeiras)
 
-<!-- GitFolio:start
-{
-  "gitfolio": "on",
-  "name": "Renan Saraiva dos Santos",
-  "email": "renan.saraiva@academico.ifpb.edu.br",
-  "tagline": "Control and Automation Engineer | Engineer Intern @ Laboratório Centrallab | Developing IoT Solutions | Machine learning researcher",
-  "avatar_url": "https://avatars.githubusercontent.com/u/94909776?v=4",
-  "website": "https://renan-saraiva-portfolio.netlify.app/",
-  "githubUser": "renansaraivaifpb",
-  "linkedinUser": "",
-  "about": "Control and Automation Engineer specializing in applying Artificial Intelligence, Reinforcement Learning (RL), and IoT to build autonomous and efficient systems. My experience spans the full development lifecycle, from firmware development for embedded systems (ESP8266, OTA, Deep Sleep) to the implementation of Computer Vision and Edge AI algorithms for industrial applications.",
-  "showStars": true,
-  "showFollowers": false,
-  "followers": 0,
-  "following": 3,
-  "themeId": "dark",
-  "tech": [
-  "Machine Learning",
-  "Computer Vision",
-  "Embedded Systems"
-],
-  "projects": [
-  {
-    "id": 979642110,
-    "repoName": "IA_Generative__ChatBot",
-    "url": "https://github.com/renansaraivaifpb/IA_Generative__ChatBot",
-    "stars": 1,
-    "description": "Projeto de chatbot com ia, cujo objetivo é desenvolver um assistente para atender duvidas em relacao a normas",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1021076354,
-    "repoName": "fundamentals-of-reinforcement-learning",
-    "url": "https://github.com/renansaraivaifpb/fundamentals-of-reinforcement-learning",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 577791730,
-    "repoName": "Power-prediction-of-three-phase-motors-using-neural-networks",
-    "url": "https://github.com/renansaraivaifpb/Power-prediction-of-three-phase-motors-using-neural-networks",
-    "stars": 0,
-    "description": "aplicação embarcada para detectar alguns parametros de motores de indução",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
-  
+
+
+
+**Pesquisador de Machine Learning** \
+[**IFPB**](https://www.ifpb.edu.br/cajazeiras) • Full-time \
+Projetos em destaque: \
+Conhecimentos utilizados: `Visão Computacional`, `Raspberry`, `Redes neurais` \ 
+ [Sistema de visão computacional embarcado em uma raspberry para segmentação semântica de pista Off-Road](https://renan-saraiva-portfolio.netlify.app/) \
+Conhecimentos utilizados: `Python`, `C/C++`, `Análise de dados`, `Redes neurais`, `Elétrica` \
+ [Development of AUTOSAR Protocol Integration: Using Computer Vision (Gesture Recognition) for Multimedia Control (Ford Company in Partnership with Assert/IFPB).](https://renan-saraiva-portfolio.netlify.app/) \
+Conhecimentos utilizados: `Python`, `Análise de dados`, `Redes neurais`, `Elétrica` \
+ [Manutenção preditiva em motores trifásicos](https://renan-saraiva-portfolio.netlify.app/views/predict_power_motor) \
+Conhecimentos utilizados: `Python`, `Estatística`,`Algoritmos Supervisionados`, `WebScrapy` \
+[Precificação Residencial utilizando algoritmo preditivo](https://renan-saraiva-portfolio.netlify.app/views/preco_de_casa.html) 
+
+<br/>
+
+### Hard Skills
+<div align="left">
+  <a href="https://github.com/renansaraivaifpb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansaraivaifpb&layout=compact&langs_count=7&theme=swift"/>
+</div>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/renan-saraiva-dos-santos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
